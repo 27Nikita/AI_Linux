@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Logs and summaries
+*.log
+daily_summary.txt
+
+# OS files
+.DS_Store
+Thumbs.db

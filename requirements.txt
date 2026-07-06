@@ -1,0 +1,12 @@
+transformers
+torch
+
+
+where 
+Transformers  
+A library from Hugging Face that provides pre-trained AI models for tasks like text summarization, translation, question answering, and more.
+In this project, it’s used to load a summarization model  that turns raw logs into human-readable summaries.
+
+Torch  
+Short for PyTorch, this is the deep learning framework that powers most Hugging Face models. It handles tensor operations, training, and running neural networks efficiently.
+ Think of it as the “engine” that runs the AI models behind the scenes.

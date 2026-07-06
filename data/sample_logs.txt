@@ -1,0 +1,3 @@
+Jul  6 10:15:32 server systemd[1]: Started Daily apt download activities.
+Jul  6 10:15:33 server kernel: CPU0: Core temperature above threshold
+Jul  6 10:15:34 server sshd[1024]: Accepted password for user1
